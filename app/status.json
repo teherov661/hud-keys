@@ -1,9 +1,7 @@
 {
-  "maintenance": true,
+  "maintenance": false,
   "title": "",
   "message": "Небольшой технический перерыв. Загляните через несколько минут.",
   "until": "Примерно на 5 мин",
-  "allow": [
-    "INQ-ZFTL-KFP8-9SG9-ARFM"
-  ]
+  "allow": []
 }

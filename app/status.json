@@ -1,7 +1,9 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "title": "",
   "message": "Обновляем сервер и добавляем новые функции. Скоро вернёмся!",
   "until": "Примерно на 5 мин",
-  "allow": []
+  "allow": [
+    "D73D-E9FD-7418-4EE5-DE0E"
+  ]
 }
